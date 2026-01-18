@@ -159,3 +159,18 @@ footer [epub|type~="z3998:signature"]{
     text-align: right;
 }
 /* End footers */
+
+/* Italicized text */
+q,
+#to-aurelio-saffi p:first-of-type span:nth-of-type(-n+3),
+#a-story-of-the-sea-shore div:nth-of-type(3) p:nth-of-type(8) span:nth-of-type(6),
+#the-disciple div:nth-of-type(2) > p:nth-of-type(10) span:nth-of-type(n+3),
+#a-prayer-for-the-past p:nth-of-type(-n+7),
+#a-prayer-for-the-past p:nth-of-type(14),
+#a-prayer-for-the-past p:nth-of-type(n+20):nth-of-type(-n+22),
+#a-prayer-for-the-past p:nth-of-type(n+27), 
+#little-boy-blue p:nth-of-type(-n+4) span:nth-of-type(even),
+#little-boy-blue p:nth-of-type(79) span:nth-of-type(even),
+#a-meditation-of-st-eligius p:nth-of-type(-n+3){
+	font-style: italic;
+}
