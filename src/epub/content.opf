@@ -29,51 +29,234 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Christian poetry, English</dc:subject>
+		<dc:subject id="subject-2">Devotional calendars</dc:subject>
+		<dc:subject id="subject-3">Devotional literature</dc:subject>
+		<dc:subject id="subject-4">English poetry</dc:subject>
+		<dc:subject id="subject-5">Religious poetry, English</dc:subject>
+		<dc:subject id="subject-6">Scottish poetry--19th century</dc:subject>
+		<dc:subject id="subject-7">German poetry--Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85025153</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85037395</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85037398</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85043932</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85112708</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008000854</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008105284</meta>
+		<meta property="se:is-a-collection">true</meta>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish author, poet, and Christian minister whose visionary works laid foundations for modern fantasy literature and continue to resonate today for their inclusive spirituality, emphasis on personal transformation, and harmonious view of nature as a reflection of divine presence, influencing contemporary discussions on faith, ecology, and moral imagination.&lt;/p&gt;
+			&lt;p&gt;This compendium assembles a selection of his poetry, encompassing narrative epics that trace inner journeys, intimate sonnets on divine love and human vulnerability, devotional reflections on the soul’s quest for enlightenment, and whimsical verses for children that blend wonder with ethical insight.&lt;/p&gt;
+			&lt;p&gt;Marked by a profound personal spirituality, MacDonald’s poems delve into the tensions of faith and doubt, the divine presence in everyday life, and the interplay between the ordinary and the transcendent⁠—as seen, for example, in &lt;i&gt;A Hidden Life&lt;/i&gt;, a long narrative tracing a young man’s spiritual growth through humble rural toil and inner trials, and &lt;i&gt;The Diary of an Old Soul&lt;/i&gt;, a year-long sequence of introspective stanzas chronicling daily spiritual struggles and aspirations.&lt;/p&gt;
+			&lt;p&gt;Composed amid his novels and sermons, many poems first appeared in 19th-century periodicals before compilation, capturing Victorian romanticism and reformist zeal while transcending the era with timeless appeals to compassion, wonder, and ethical living that speak to modern audiences seeking spiritual depth beyond dogma.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<!-- TRANSCRIPTIONS -->
+		<!-- A Book of Strife in the Form of the Diary of an Old Soul -->
+		<dc:source>https://www.gutenberg.org/ebooks/1953</dc:source>
+		<!-- Rampolli -->
+		<!-- Song of the Lonely -->
+		<dc:source>https://www.gutenberg.org/ebooks/8949</dc:source>
+		<!-- The Poetical Works of George MacDonald in Two Volumes — Volume 1 -->
+		<!-- To My Father; A Hidden Life; An Old Story; A Book of Dreams;
+		To Aurelio Saffi;	A. M. D.; A Memorial of Africa; Better Things; Prayer;
+		Rest;	To A. J. Scott with the Following Poem; Light; To A. J. Scott;
+		If I Were a Monk, and Thou Wert a Nun;
+		Blessed Are the Meek, for They Shall Inherit the Earth;
+		I Know What Beauty Is; I Would I Were a Child; A Story of the Sea-Shore;
+		My Heart; O Do Not Leave Me; The Flower-Angels; To My Sister;
+		Oh Thou of Little Faith; Longing; The Disciple; The Child-Mother;
+		A Prayer for the Past; Sympathy; Little Elfie; The Thank-Offering;
+		The Burnt-Offering; To S. F. S.; The Unseen Face; Concerning Jesus; Death;
+		Hope Deferred; The Gospel Women; Songs of the Days and Nights;
+		He Heeded Not; The Sheep and the Goat; The Shadows;
+		An Old Sermon with a New Text; The Wakeful Sleeper; A Dream of Waking;
+		Hymn for a Sick Girl; A Christmas Carol for 1862; A Christmas Carol;
+		The Sleepless Jesus; The Children's Heaven; Rejoice; The Grace of Grace;
+		Antiphon; Dorcas; Marriage Song; Blind Bartimeus; Come Unto Me;
+		Morning Hymn; Evening Hymn; Noontide Hymn; Autumn Song; Spring Song;
+		Wild Flowers; To Lady Noel Byron; To Garibaldi, with a Book; To the Same;
+		The Holy Midnight; Hard Times; Summer Song; Picture Songs; A Dream Song;
+		A Manchester Poem; Russell Gurney; To One Threatened with Blindness;
+		To Aubrey de Vere; General Gordon; The Chrysalis;
+		Written for One in Sore Pain; Christmas, 1873; Christmas, 1884;
+		A Song for Christmas; To My Aging Friends;
+		Christmas Song of the Old Children; Christmas Meditation; The Old Castle;
+		Christmas Prayer; Song of the Innocents; Christmas Day and Every Day;
+		Rondel; A Prayer; Home from the Wars; God; Not Gift; To Any Friend; Death;
+		Winter Song; At My Window After Sunset; A Father to a Mother;
+		The Temple of God; Going to Sleep; To-Morrow; Foolish Children;
+		Love Is Home; Faith; Waiting; Our Ship; My Heart Thy Lark; Two in One;
+		Bedtime; A Prayer; A Song Prayer; Reciprocity; What the Lord Saith;
+		How Shall He Sing Who Hath No Song; This World; Saint Peter; Zacchaeus;
+		After Thomas Kemp; A Thanksgiving for F.D. Maurice; George Rolleston;
+		To Gordon, Leaving Khartoum; Song of the Saints and Angels; Failure;
+		To E. G., Dedicating a Book; To G. M. T.;
+		In Memoriam Lady Caroline Charteris-->
+		<dc:source>https://www.gutenberg.org/ebooks/9543</dc:source>
+		<!-- The poetical works of George MacDonald in two volumes — Volume 2 -->
+		<!-- The Homeless Ghost; Abu Midjan; The Man of Songs; The Journey;
+		Were I a Skilful Painter; The Hills; The Lost Soul; After an Old Legend;
+		The Tree's Prayer; Love's Ordeal; Far and Near; My Room; Death and Birth;
+		Lessons for a Child; The Three Horses; The Golden Key; Somnium Mystici;
+		The Sangreal; The Failing Track; Tell Me; Brother Artist!;
+		Sir Lark and King Sun; The Owl and the Bell; A Meditation of St Eligius;
+		The Thankless Lady; What Makes Summer?; The Mistletoe; Professor Noctutus;
+		Bird-Songs; The Unseen Model; Legend of the Corrievrechan; The Dead Hand;
+		Riddles; Baby; Up and Down; Up in the Tree; A Baby-Sermon; Little Bo-Peep;
+		Little Boy Blue; Willie's Question; The Early Bird; A Threefold Cord;
+		A Mammon-Marriage; A Song in the Night; Love's History;
+		The Lark and the Wind; A Dead House; Bell Upon Organ; Master and Boy;
+		The Clock of the Universe; The Thorn in the Flesh; Lycabas; In the Night;
+		The Giver; False Prophets; Life-Weary; Approaches; Travellers' Song;
+		Love Is Strength; Coming; A Song of the Waiting Dead; Obedience;
+		A Song in the Night; De Profundis; Blind Sorrow; Angels;
+		The Father's Worshippers; A Birthday-Wish; To Any One; Waiting;
+		Lost but Safe; Much and More; Hope and Patience; A Better Thing; A Prisoner;
+		To My Lord and Master; To One Unsatisfied; To My God; Triolet;
+		The Word of God; Eine Kleine Predigt; To the Life Eternal; Hope Deferred;
+		Forgiveness; Dejection; Appeal; Mother Nature; King Cole; Said and Did;
+		Dr. Doddridge's Dog; The Girl That Lost Things; A Make-Believe;
+		The Christmas Child; A Christmas Prayer; No End of No-Story-->
+		<dc:source>https://www.gutenberg.org/ebooks/9984</dc:source>
+		<!-- A Hidden Life and Other Poems -->
+		<!-- A Gift; A Dream Within a Dream; Longing; My Eyes Make Pictures;
+		The Death of the Old Year; A Thanksgiving; A Song in a Dream -->
+		<dc:source>https://www.gutenberg.org/ebooks/10578</dc:source>
+		<!-- SCANS -->
+		<!-- A Book of Strife in the Form of the Diary of an Old Soul -->
+		<dc:source>https://archive.org/details/bookofstrifeinfo00macd</dc:source>
+		<!-- The Disciple, and Other Poems -->
+		<!-- Blessed Are the Poor in Spirit; Blessed Are They That Mourn;
+		Blessed Are the Meek; Blessed Are They That Hunger and Thirst;
+		Blessed Are the Merciful; Blessed Are the Pure in Heart; The Sea-Shell-->
+		<dc:source>https://archive.org/details/discipleandothe02macdgoog</dc:source>
+		<!-- A Hidden Life and Other Poems -->
+		<!-- A Gift; A Dream Within a Dream; Longing; My Eyes Make Pictures;
+		The Death of the Old Year; A Thanksgiving; A Song in a Dream -->
+		<dc:source>https://archive.org/details/hiddenlifeandoth00macduoft</dc:source>
+		<!-- The Disciple, and Other Poems -->
+		<!-- Blessed Are the Poor in Spirit; Blessed Are They That Mourn;
+		Blessed Are the Meek; Blessed Are They That Hunger and Thirst;
+		Blessed Are the Merciful; Blessed Are the Pure in Heart; The Sea-Shell-->
+		<dc:source>https://archive.org/details/discipleandothe02macdgoog</dc:source>
+		<!-- Rampolli -->
+		<!-- Song of the Lonely -->
+		<dc:source>https://archive.org/details/rampolli00macd</dc:source>
+		<!-- The Poetical Works of George MacDonald in Two Volumes — Volume 1 -->
+		<!-- To My Father; A Hidden Life; An Old Story; A Book of Dreams;
+		To Aurelio Saffi; A. M. D.; A Memorial of Africa; Better Things; Prayer;
+		Rest; To A. J. Scott with the Following Poem; Light; To A. J. Scott;
+		If I Were a Monk, and Thou Wert a Nun;
+		Blessed Are the Meek, for They Shall Inherit the Earth;
+		I Know What Beauty Is; I Would I Were a Child; A Story of the Sea-Shore;
+		My Heart; O Do Not Leave Me; The Flower-Angels; To My Sister;
+		Oh Thou of Little Faith; Longing; The Disciple; The Child-Mother;
+		A Prayer for the Past; Sympathy; Little Elfie; The Thank-Offering;
+		The Burnt-Offering; To S. F. S.; The Unseen Face; Concerning Jesus; Death;
+		Hope Deferred; The Gospel Women; Songs of the Days and Nights;
+		He Heeded Not; The Sheep and the Goat; The Shadows;
+		An Old Sermon with a New Text; The Wakeful Sleeper; A Dream of Waking;
+		Hymn for a Sick Girl; A Christmas Carol for 1862; A Christmas Carol;
+		The Sleepless Jesus; The Children's Heaven; Rejoice; The Grace of Grace;
+		Antiphon; Dorcas; Marriage Song; Blind Bartimeus; Come Unto Me;
+		Morning Hymn; Evening Hymn; Noontide Hymn; Autumn Song; Spring Song;
+		Wild Flowers; To Lady Noel Byron; To Garibaldi, with a Book; To the Same;
+		The Holy Midnight; Hard Times; Summer Song; Picture Songs; A Dream Song;
+		A Manchester Poem; Russell Gurney; To One Threatened with Blindness;
+		To Aubrey de Vere; General Gordon; The Chrysalis;
+		Written for One in Sore Pain; Christmas, 1873; Christmas, 1884;
+		A Song for Christmas; To My Aging Friends;
+		Christmas Song of the Old Children; Christmas Meditation; The Old Castle;
+		Christmas Prayer; Song of the Innocents; Christmas Day and Every Day;
+		Rondel; A Prayer; Home from the Wars; God; Not Gift; To Any Friend; Death;
+		Winter Song; At My Window After Sunset; A Father to a Mother;
+		The Temple of God; Going to Sleep; To-Morrow; Foolish Children;
+		Love Is Home; Faith; Waiting; Our Ship; My Heart Thy Lark; Two in One;
+		Bedtime; A Prayer; A Song Prayer; Reciprocity; What the Lord Saith;
+		How Shall He Sing Who Hath No Song; This World; Saint Peter; Zacchaeus;
+		After Thomas Kemp; A Thanksgiving for F.D. Maurice; George Rolleston;
+		To Gordon, Leaving Khartoum; Song of the Saints and Angels; Failure;
+		To E. G., Dedicating a Book; To G. M. T.;
+		In Memoriam Lady Caroline Charteris -->
+		<dc:source>https://catalog.hathitrust.org/Record/102955776</dc:source>
+		<!-- The Poetical Works of George MacDonald in Two Volumes — Volume 2 -->
+		<!-- The Homeless Ghost; Abu Midjan; The Man of Songs; The Journey;
+		Were I a Skilful Painter; The Hills; The Lost Soul; After an Old Legend;
+		The Tree's Prayer; Love's Ordeal; Far and Near; My Room; Death and Birth;
+		Lessons for a Child; The Three Horses; The Golden Key; Somnium Mystici;
+		The Sangreal; The Failing Track; Tell Me; Brother Artist!;
+		Sir Lark and King Sun; The Owl and the Bell; A Meditation of St Eligius;
+		The Thankless Lady; What Makes Summer?; The Mistletoe; Professor Noctutus;
+		Bird-Songs; The Unseen Model; Legend of the Corrievrechan; The Dead Hand;
+		Riddles; Baby; Up and Down; Up in the Tree; A Baby-Sermon; Little Bo-Peep;
+		Little Boy Blue; Willie's Question; The Early Bird; A Threefold Cord;
+		A Mammon-Marriage; A Song in the Night; Love's History;
+		The Lark and the Wind; A Dead House; Bell Upon Organ; Master and Boy;
+		The Clock of the Universe; The Thorn in the Flesh; Lycabas; In the Night;
+		The Giver; False Prophets; Life-Weary; Approaches; Travellers' Song;
+		Love Is Strength; Coming; A Song of the Waiting Dead; Obedience;
+		A Song in the Night; De Profundis; Blind Sorrow; Angels;
+		The Father's Worshippers; A Birthday-Wish; To Any One; Waiting;
+		Lost but Safe; Much and More; Hope and Patience; A Better Thing; A Prisoner;
+		To My Lord and Master; To One Unsatisfied; To My God; Triolet;
+		The Word of God; Eine Kleine Predigt; To the Life Eternal; Hope Deferred;
+		Forgiveness; Dejection; Appeal; Mother Nature; King Cole; Said and Did;
+		Dr. Doddridge's Dog; The Girl That Lost Things; A Make-Believe;
+		The Christmas Child; A Christmas Prayer; No End of No-Story -->
+		<dc:source>https://catalog.hathitrust.org/Record/011821572</dc:source>
+		<meta property="se:production-notes">"A Threefold Cord" is co-authored with Greville Matheson MacDonald and John Hill MacDonald.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_poetry</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Martin</dc:contributor>
+		<meta property="file-as" refines="#artist">Martin, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Martin_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50040933</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">John Bechard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Bechard, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Jonathan Ingram</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Ingram, Jonathan</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Charles Bidwell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Bidwell, Charles</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Robert Prince</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Prince, Robert</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Tim Rowe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Rowe, Tim</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Ginny Brewer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Brewer, Ginny</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-8">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
