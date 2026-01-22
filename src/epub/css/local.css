@@ -46,6 +46,11 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
+[epub|type~="dedication"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 @supports(display: flex){
 	div[epub|type~="dedication"],
 	section[epub|type~="dedication"]{
