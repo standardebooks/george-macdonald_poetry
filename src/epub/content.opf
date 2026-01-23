@@ -229,6 +229,15 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Martin_(painter)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50040933</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="contributor-1">Greville Ewing MacDonald</dc:contributor>
+		<meta property="file-as" refines="#contributor-1">MacDonald, Greville Ewing</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor-1">http://id.loc.gov/authorities/names/n50041964</meta>
+		<meta property="role" refines="#contributor-1" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor-1">0</meta>
+		<dc:contributor id="contributor-2">John Hill MacDonald</dc:contributor>
+		<meta property="file-as" refines="#contributor-2">MacDonald, John Hill</meta>
+		<meta property="role" refines="#contributor-2" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor-2">0</meta>
 		<dc:contributor id="transcriber-1">John Bechard</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bechard, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
