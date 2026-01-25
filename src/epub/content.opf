@@ -320,7 +320,7 @@
 		The Girl That Lost Things; A Make-Believe; The Christmas Child;
 		A Christmas Prayer; No End of No-Story -->
 		<dc:source>https://catalog.hathitrust.org/Record/011821572</dc:source>
-		<meta property="se:production-notes">"A Threefold Cord" is co-authored with Greville Matheson MacDonald and John Hill MacDonald.</meta>
+		<meta property="se:production-notes">The poems are ordered according to original publication date. Several poems from "A Threefold Cord" were placed in other sections so the primary omnibus source. These have been placed back into "A Threefold Cord" in the original publication order.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_poetry</meta>
