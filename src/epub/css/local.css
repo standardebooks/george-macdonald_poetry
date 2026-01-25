@@ -164,7 +164,6 @@ footer [epub|type~="z3998:signature"]{
 }
 
 [epub|type~="z3998:poem"] footer p{
-	margin-right: 1em;
 	margin-top: 1em;
 	text-align: right;
 }
@@ -225,3 +224,27 @@ table[epub|type~="z3998:drama"]{
 	font-variant: all-small-caps;
 }
 /* End dramatic dialog */
+
+article > div > header p[epub|type~="bridgehead"],
+header p{
+	font-size: 1em;
+	font-variant: normal;
+	font-weight: normal;
+}
+
+#willies-question header p{
+	font-variant: small-caps;
+}
+
+article > div > header p{
+	/* Simulate h3. */
+	font-size: 1.17em;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+[epub|type~="z3998:poem"] header p span{
+	display: inline;
+	padding: 0;
+	text-indent: 0;
+}
