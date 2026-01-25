@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-macdonald/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-25T23:54:10Z</dc:date>
+		<meta property="dcterms:modified">2026-01-25T23:54:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -54,10 +54,9 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish author, poet, and Christian minister whose visionary works laid foundations for modern fantasy literature and continue to resonate today for their inclusive spirituality, emphasis on personal transformation, and harmonious view of nature as a reflection of divine presence, influencing contemporary discussions on faith, ecology, and moral imagination.&lt;/p&gt;
-			&lt;p&gt;This compendium assembles a selection of his poetry, encompassing narrative epics that trace inner journeys, intimate sonnets on divine love and human vulnerability, devotional reflections on the soul’s quest for enlightenment, and whimsical verses for children that blend wonder with ethical insight.&lt;/p&gt;
-			&lt;p&gt;Marked by a profound personal spirituality, MacDonald’s poems delve into the tensions of faith and doubt, the divine presence in everyday life, and the interplay between the ordinary and the transcendent—as seen, for example, in &lt;i&gt;A Hidden Life&lt;/i&gt;, a long narrative tracing a young man’s spiritual growth through humble rural toil and inner trials, and &lt;i&gt;The Diary of an Old Soul&lt;/i&gt;, a year-long sequence of introspective stanzas chronicling daily spiritual struggles and aspirations.&lt;/p&gt;
-			&lt;p&gt;Composed amid his novels and sermons, many poems first appeared in 19th-century periodicals before compilation, capturing Victorian romanticism and reformist zeal while transcending the era with timeless appeals to compassion, wonder, and ethical living that speak to modern audiences seeking spiritual depth beyond dogma.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish author, poet, and Christian minister whose visionary works laid foundations for modern fantasy literature. They continue to resonate today with their spirituality, emphasis on personal transformation, and harmonious view of nature as a reflection of divine presence, influencing contemporary discussions on faith, ecology, and moral imagination.&lt;/p&gt;
+			&lt;p&gt;Composed amid his novels and sermons, many of his poems first appeared in 19th-century periodicals. This edition collects all of his poetry (excluding only his poetry written in Scots), encompassing narrative epics that trace inner journeys, intimate sonnets on divine love and human vulnerability, devotional reflections on the soul’s quest for enlightenment, and whimsical verses for children that blend wonder with ethical insight.&lt;/p&gt;
+			&lt;p&gt;Marked by a profound personal spirituality, MacDonald’s poems delve into the tensions of faith and doubt, the divine presence in everyday life, and the interplay between the ordinary and the transcendent—as seen, for example, in “A Hidden Life,” a long narrative tracing a young man’s spiritual growth through humble rural toil and inner trials, and “The Diary of an Old Soul,” a year-long sequence of introspective stanzas chronicling daily spiritual struggles and aspirations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- TRANSCRIPTIONS -->
@@ -321,8 +320,8 @@
 		A Christmas Prayer; No End of No-Story -->
 		<dc:source>https://catalog.hathitrust.org/Record/011821572</dc:source>
 		<meta property="se:production-notes">The poems are ordered according to original publication date. Several poems from "A Threefold Cord" were placed in other sections so the primary omnibus source. These have been placed back into "A Threefold Cord" in the original publication order.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">158017</meta>
+		<meta property="se:reading-ease.flesch">74.12</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_poetry</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
@@ -380,6 +379,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
