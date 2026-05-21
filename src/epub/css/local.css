@@ -15,7 +15,7 @@ header{
 /* End headers not in ToC */
 
 /* All bridgeheads */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -23,11 +23,11 @@ header{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
+[epub|type~="se:bridgehead"] i{
 	font-style: normal;
 }
 
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="se:bridgehead"]{
 	text-align: justify;
 }
 /* End all bridgeheads */
@@ -225,7 +225,7 @@ table[epub|type~="z3998:drama"]{
 }
 /* End dramatic dialog */
 
-article > div > header p[epub|type~="bridgehead"],
+article > div > header p[epub|type~="se:bridgehead"],
 header p{
 	font-size: 1em;
 	font-variant: normal;
