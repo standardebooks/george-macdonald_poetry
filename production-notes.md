@@ -1,0 +1,1 @@
+The poems are ordered according to original publication date. Several poems from "A Threefold Cord" were placed in other sections so the primary omnibus source. These have been placed back into "A Threefold Cord" in the original publication order.
