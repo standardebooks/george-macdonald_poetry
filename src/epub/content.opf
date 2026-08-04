@@ -53,7 +53,7 @@
 		<meta property="term" refines="#subject-7">sh2008105284</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.</dc:abstract>
+		<meta property="schema:abstract">A collection of poetry by Scottish author, poet, and Christian minister George MacDonald, exploring themes of faith, nature, redemption, and the human soul.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish author, poet, and Christian minister whose visionary works laid foundations for modern fantasy literature. They continue to resonate today with their spirituality, emphasis on personal transformation, and harmonious view of nature as a reflection of divine presence, influencing contemporary discussions on faith, ecology, and moral imagination.&lt;/p&gt;
 			&lt;p&gt;Composed amid his novels and sermons, many of his poems first appeared in 19th-century periodicals. This edition collects all of his poetry (excluding only his poetry written in Scots), encompassing narrative epics that trace inner journeys, intimate sonnets on divine love and human vulnerability, devotional reflections on the soul’s quest for enlightenment, and whimsical verses for children that blend wonder with ethical insight.&lt;/p&gt;
