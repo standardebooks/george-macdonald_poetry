@@ -339,6 +339,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="contributor-1">Greville Ewing MacDonald</dc:contributor>
 		<meta property="file-as" refines="#contributor-1">MacDonald, Greville Ewing</meta>
+		<link href="https://en.wikipedia.org/wiki/Greville_MacDonald" refines="#contributor-1" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50041964.html" refines="#contributor-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#contributor-1" scheme="marc:relators">ctb</meta>
 		<dc:contributor id="contributor-2">John Hill MacDonald</dc:contributor>
