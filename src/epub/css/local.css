@@ -51,7 +51,7 @@ section[epub|type~="dedication"] > *{
 	text-align: right;
 }
 
-@supports(display: flex){
+@supports(display: flex) and (min-height: calc(98vh - 3em)){
 	div[epub|type~="dedication"],
 	section[epub|type~="dedication"]{
 		align-items: center;
